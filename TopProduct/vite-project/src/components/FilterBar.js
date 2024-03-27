@@ -1,5 +1,5 @@
 // src/components/FilterBar.js
-import React from 'react';
+
 
 const FilterBar = () => {
   return (

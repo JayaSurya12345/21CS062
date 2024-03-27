@@ -1,5 +1,5 @@
 // src/pages/ProductDetailPage.js
-import React from 'react';
+
 
 const ProductDetailPage = () => {
   return (

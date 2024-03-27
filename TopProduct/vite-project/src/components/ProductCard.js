@@ -1,7 +1,8 @@
 // src/components/ProductCard.js
-import React from 'react';
 
-const ProductCard = ({ product }) => {
+const product={"image":"id","name":"Jaya","company":"afford","category":"cse","price":"1234","rating":"5","discount":"23","availability":"yes"};
+
+const ProductCard = ( {product} ) => {
   return (
     <div className="product-card">
       <img src={product.image} alt={product.name} />
